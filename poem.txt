@@ -4,5 +4,6 @@ green
 yellow
 blue
 purple
+gray
 white
 what have you ever seen white color in rainbow::))
