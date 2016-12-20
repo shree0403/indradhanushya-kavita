@@ -3,6 +3,8 @@ red
 green
 yellow
 blue
+purple color unicorn  and white red color horse
+
 purple color unicorn
 indigo added
 gray
@@ -10,3 +12,4 @@ white
 what have you ever seen white color in rainbow::))
 write something online 10
 add UNICORN hahaha
+and horse hahahaha
